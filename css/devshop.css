@@ -1,0 +1,19 @@
+.left {
+    float: left;
+    width: 50%;
+}
+
+.no-border {
+    border: none;
+}
+
+
+.reveal .slides {
+    position: relative;
+    left: auto;
+
+}
+
+.reveal h1 {
+    font-size: 2em;
+}

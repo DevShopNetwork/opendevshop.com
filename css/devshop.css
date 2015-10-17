@@ -11,7 +11,11 @@
 .reveal .slides {
     position: relative;
     left: auto;
+    top: 10%;
+}
 
+.slides img.devshop {
+    max-width: 33%;
 }
 
 .reveal h1 {
